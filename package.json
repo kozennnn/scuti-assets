@@ -1,0 +1,25 @@
+{
+  "name": "scuti-assets-master",
+  "version": "1.0.0",
+  "description": "Assets for scuti-client",
+  "main": "index.js",
+  "scripts": {
+    "serve:assets": "http-server ./public/ -p 8081 -i --cors"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kozennnn/scuti-assets.git"
+  },
+  "keywords": [
+    "scuti"
+  ],
+  "author": "KOZEN & Tig3r",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/kozennnn/scuti-assets/issues"
+  },
+  "homepage": "https://github.com/kozennnn/scuti-assets#readme",
+  "dependencies": {
+    "http-server": "^0.12.3"
+  }
+}
