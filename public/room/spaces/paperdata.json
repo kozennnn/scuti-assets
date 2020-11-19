@@ -1,0 +1,139 @@
+{
+  "paper_wall": {
+    "101": {
+      "id": 101,
+      "textureId": 58,
+      "textureName": "lively",
+      "textureColor": "0xFECB00",
+      "colorable": 0
+    },
+    "102": {
+      "id": 102,
+      "textureId": 58,
+      "textureName": "lively",
+      "textureColor": "0xCBA900",
+      "colorable": 0
+    },
+    "103": {
+      "id": 103,
+      "textureId": 58,
+      "textureName": "lively",
+      "textureColor": "0xF9FE00",
+      "colorable": 0
+    },
+    "104": {
+      "id": 104,
+      "textureId": 58,
+      "textureName": "lively",
+      "textureColor": "0xC8CB00",
+      "colorable": 0
+    },
+    "105": {
+      "id": 105,
+      "textureId": 58,
+      "textureName": "lively",
+      "textureColor": "0xC9E79C",
+      "colorable": 0
+    },
+    "106": {
+      "id": 106,
+      "textureId": 58,
+      "textureName": "lively",
+      "textureColor": "0x94D039",
+      "colorable": 0
+    },
+    "107": {
+      "id": 107,
+      "textureId": 58,
+      "textureName": "lively",
+      "textureColor": "0x76A62D",
+      "colorable": 0
+    },
+    "108": {
+      "id": 108,
+      "textureId": 58,
+      "textureName": "lively",
+      "textureColor": "0x98D8D4",
+      "colorable": 0
+    },
+    "109": {
+      "id": 109,
+      "textureId": 58,
+      "textureName": "lively",
+      "textureColor": "0x31B2A9",
+      "colorable": 0
+    },
+    "110": {
+      "id": 110,
+      "textureId": 58,
+      "textureName": "lively",
+      "textureColor": "0x278E87",
+      "colorable": 0
+    },
+    "111": {
+      "id": 111,
+      "textureId": 58,
+      "textureName": "lively",
+      "textureColor": "0x8B8CDB",
+      "colorable": 0
+    },
+    "112": {
+      "id": 112,
+      "textureId": 58,
+      "textureName": "lively",
+      "textureColor": "0xBBBECD",
+      "colorable": 0
+    },
+    "113": {
+      "id": 113,
+      "textureId": 58,
+      "textureName": "lively",
+      "textureColor": "0xFE9090",
+      "colorable": 0
+    },
+    "114": {
+      "id": 114,
+      "textureId": 58,
+      "textureName": "lively",
+      "textureColor": "0xDDB386",
+      "colorable": 0
+    },
+    "115": {
+      "id": 115,
+      "textureId": 58,
+      "textureName": "lively",
+      "textureColor": "0xCB8336",
+      "colorable": 0
+    },
+    "201": {
+      "id": 201,
+      "textureId": 153,
+      "textureName": "white",
+      "textureColor": "0xBBBECD",
+      "colorable": 0
+    },
+    "403": {
+      "id": 403,
+      "textureId": 243,
+      "textureName": "tiles2",
+      "textureColor": "0xC9E79C",
+      "colorable": 1
+    }
+  },
+  "paper_floor": {
+    "101": {
+      "id": 101,
+      "textureId": 44,
+      "textureName": "basic",
+      "textureColor": "0x986500",
+      "colorable": 0
+    },
+    "102": {
+      "id": 102,
+      "textureId": 44,
+      "textureName": "basic",
+      "textureColor": "0x9FA2AF",
+      "colorable": 0
+    }
+  }
+}
